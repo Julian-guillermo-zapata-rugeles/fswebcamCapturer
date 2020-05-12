@@ -1,2 +1,4 @@
 # fswebcamCapturer
-using fswebcam take pic per interval
+
+con este programa capturar imagenes usando fswebcam en linux 
+:D
